@@ -1,0 +1,14 @@
+<h1>Add New User</h1>
+<form action="/users" method="post">
+  <label>First Name: <input type="text" name="first" required></label><br>
+  <label>Last Name: <input type="text" name="last" required></label><br>
+  <label>Gender: 
+    <select name="gender" required>
+      <option value="Male">Male</option>
+      <option value="Female">Female</option>
+      <option value="Other">Other</option>
+    </select>
+  </label><br>
+  <label>Age: <input type="number" name="age" required></label><br>
+  <button type="submit">Submit</button>
+</form>
