@@ -1,0 +1,10 @@
+<script>start("/tmp/user-management-app/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,384,"384 B",1774644625,"3/27/26, 4:50:25 PM");</script>
+<script>addRow("node_modules","node_modules",1,2528,"2.5 kB",1774643946,"3/27/26, 4:39:06 PM");</script>
+<script>addRow("routes","routes",1,96,"96 B",1774643785,"3/27/26, 4:36:25 PM");</script>
+<script>addRow("views","views",1,160,"160 B",1774643788,"3/27/26, 4:36:28 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,14,"14 B",1774644440,"3/27/26, 4:47:20 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,32302,"31.5 kB",1774643946,"3/27/26, 4:39:06 PM");</script>
+<script>addRow("package.json","package.json",0,222,"222 B",1774643826,"3/27/26, 4:37:06 PM");</script>
+<script>addRow("server.js","server.js",0,522,"522 B",1774644384,"3/27/26, 4:46:24 PM");</script>
